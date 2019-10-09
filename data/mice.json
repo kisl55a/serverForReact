@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "Acer Predator Helios 300 Gaming Laptop PC, 15.6 Full HD 144Hz 3ms IPS Display, Intel i7-9750H, GTX 1660 Ti 6GB, 16GB DDR4, 256GB PCIe NVMe SSD, Backlit Keyboard, PH315-52-78VL",
+        "description": "The best laptop ever in the galaxy",
+        "company": "Samsung",
+        "price": 100,
+        "currency": "$",
+        "ship": "Finland",
+        "image": "1.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Xiomi",
+        "description": "The best laptop ever in the galaxy",
+        "company": "Samsung",
+        "price": 100,
+        "currency": "$",
+        "ship": "Finland, USA",
+        "image": "2.webp"
+    },
+    {
+        "id": 2,
+        "name": "Apple",
+        "description": "The best laptop ever in the galaxy",
+        "company": "Samsung",
+        "price": 100,
+        "currency": "$",
+        "ship": "Finland, USA",
+        "image": "3.png"
+    },
+    {
+        "id": 3,
+        "name": "Huawei",
+        "description": "The best laptop ever in the galaxy",
+        "company": "Samsung",
+        "price": 100,
+        "currency": "$",
+        "ship": "Finland, USA",
+        "image": "4.png"
+    }
+]
